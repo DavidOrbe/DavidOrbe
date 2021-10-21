@@ -5,6 +5,7 @@
 I am a Physics student and associate teacher at Science School at UNAM🏫👨‍🔬<br />
 I am from <strong> Mexico City</strong>🌮<br />
 I love learn new things and develop new skills 🖥️<br />
+In my free time I like to read, play the guitar, listen to music, run and read manga or comics. 📖🎸🎶🏃‍♂️ <br />
+Skills: Python/ R <br />
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DavidOrbe)  
+<img src="http://pa1.narvii.com/5780/8f696b9acc4fe7b934568c2c211c74cc8cc8620c_hq.gif" width="50"> <em><b> "What you can or can’t do doesn’t matter in this place, what matters is what you want to do."<b></em>
