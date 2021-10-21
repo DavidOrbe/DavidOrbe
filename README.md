@@ -2,7 +2,7 @@
 
 <!-- Description about me -->
 <h1>🤔 About me 👨‍💻 </h1> <br />
-I am a Physics student and [associate teacher](http://www.fciencias.unam.mx/directorio/85637) at Science School at UNAM🏫👨‍🔬<br />
+I am a Physics student and <a href="http://www.fciencias.unam.mx/directorio/85637"> associate teacher </a> at Science School at UNAM🏫👨‍🔬<br />
 I am from <strong> Mexico City</strong>🌮<br />
 I love learn new things and develop new skills 🖥️<br />
 In my free time I like to read, play the guitar, listen to music, run and read manga or comics. 📖🎸🎶🏃‍♂️ <br />
